@@ -1,0 +1,47 @@
+Chaînes de caractères
+Comment vérifier si la sous-chaîne "Python" est présente dans la chaîne "J'apprends Python" ?
+
+
+B) "Python" in "J'apprends Python"
+
+
+Quelle méthode permet de transformer "python" en "Python" ?
+
+A) .capitalize()
+
+
+Comment accéder au dernier caractère de la chaîne "data" ?
+
+B) "data"[-1]
+
+
+Listes
+Comment ajouter l'élément 5 à la fin de la liste [1, 2, 3, 4] ?
+
+B) [1, 2, 3, 4].append(5)
+
+Comment retirer l'élément 2 de la liste [1, 2, 3, 4] ?
+
+A) [1, 2, 3, 4].remove(2)
+
+Quelle méthode retourne l'indice de la première occurrence de l'élément 3 dans la liste [1, 2, 3, 4] ?
+
+B) [1, 2, 3, 4].find(3)
+
+Opérateurs
+
+Quel opérateur est utilisé pour la division entière en Python ?
+
+B) //
+
+Quel est le résultat de l'expression 5 ** 2 en Python ?
+
+B) 25
+
+Comment évaluer si deux variables a et b ont des valeurs différentes ?
+
+A) a != b
+
+Quelle est la priorité des opérateurs suivants ?
+
+C) Les opérateurs arithmétiques (+, -, *, /) ont la priorité la plus élevée.

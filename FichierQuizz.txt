@@ -1,0 +1,39 @@
+Qu'est-ce qu'un tuple en Python ?
+
+B) Une collection ordonnée immuable
+
+Comment créer un tuple contenant un seul élément ?
+
+C) (element,)
+
+Peut-on modifier un élément d'un tuple ?
+
+B) Non, les tuples sont immuables
+
+Comment accéder à un élément d'un tuple ?
+
+A) En utilisant son index entre crochets []
+
+Comment concaténer deux tuples ?
+
+A) Avec le symbole +
+
+Peut-on supprimer des éléments d'un tuple ?
+
+B) Non, mais on peut créer un nouveau tuple sans certains éléments
+
+Comment créer un tuple à partir d'une liste ?
+
+A) En utilisant la fonction tuple()
+
+Quelle est la sortie de len((1, 2, 3, 4)) ?
+
+B) 4
+
+Comment vérifier si un élément est présent dans un tuple ?
+
+B) En utilisant le mot-clé in
+
+Peut-on avoir des tuples imbriqués (tuple dans un tuple) ?
+
+C) Oui, sans restriction sur les types de données
